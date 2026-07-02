@@ -1,3 +1,6 @@
+> [!NOTE]
+> Deprecated. Use hermes now.
+
 # MemoChat
 
 <p align="center">
